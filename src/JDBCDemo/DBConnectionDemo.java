@@ -2,6 +2,8 @@ package JDBCDemo;
 
 import java.sql.*;
 
+//Demo Project
+
 public class DBConnectionDemo 
 {
 	public static void main(String args[])
